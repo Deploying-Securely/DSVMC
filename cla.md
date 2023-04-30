@@ -27,8 +27,7 @@ their respective direct and indirect sublicensees.
 **Representations.** You represent that you are the sole author of your Contributions and are legally entitled
 to grant the foregoing licenses and waivers in respect of your Contributions. If your Contributions were
 created in the course of your employment with your past or present employer(s), you represent that such
-employer(s) has authorized you to make your Contributions on behalf of such employer(s) - in a manner complying with this Agreement - or such employer
-(s) has waived all right, title, or interest in or to your Contributions.
+employer(s) has authorized you to make your Contributions on behalf of such employer(s) - in a manner complying with this Agreement - or such employer(s) has waived all right, title, or interest in or to your Contributions.
 
 **Disclaimer.** To the fullest extent permitted under applicable law, Projects are provided on an "AS IS"
 basis, without any warranties or conditions, express or implied, including, without limitation, any implied
@@ -46,7 +45,7 @@ made at the sole discretion of Owner or authorized delegates.
 hereunder.
 
 **Disputes.** This Agreement shall be governed by and construed in accordance with the laws of the State of
-Delware, United States of America, without giving effect to its principles or rules regarding conflicts of laws,
+New Hampshire, United States of America, without giving effect to its principles or rules regarding conflicts of laws,
 other than such principles directing application of New Hampshire law. In the event that any of the provisions of this Agreement
 shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, the remaining portions hereof shall remain 
 in full force and effect.
